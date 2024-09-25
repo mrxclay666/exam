@@ -1,0 +1,23 @@
+.said{
+    background-color: rgb(111, 158, 194);
+    border-radius: 30px;
+    border: solid red 2px;
+    text-align: center;
+}
+.red{
+    background-color: red;
+}
+.user{
+    
+        border: 2px solid black;
+        border-collapse: collapse;
+        width: 1000px;
+        height: 100px;
+    
+}
+th{
+    border: 2px solid black;
+}
+.caption{
+    background-color: yellow;
+}
